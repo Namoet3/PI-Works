@@ -4,7 +4,7 @@
 
 ## Overview
 
-The User Management Screen allows administrators to manage user accounts within the system. This includes viewing user details and creating new users.
+The User Management Screen allows administrators to manage user accounts within the system. This includes viewing user details, creating new users and assigning roles.
 
 ## Functional Requirements
 
